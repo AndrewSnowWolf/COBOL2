@@ -1,0 +1,2 @@
+# COBOL2
+COBOL勉強
